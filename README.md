@@ -20,8 +20,8 @@
 
 <h3>🛠  Main Tech Stack</h3>
 
-- 🔧 &nbsp; Tableau | Google Data Studio
 - 💻 &nbsp; Python | Java | R (Statistics) 
+- 🔧 &nbsp; Tableau | Google Data Studio
 - 🌐 &nbsp; GitHub | DeepNote | Google Colab
 - 🛢 &nbsp; Oracle MySQL | Microsoft SQL | MongoDB
 
