@@ -15,8 +15,8 @@
 
 - 🤓 &nbsp; Exploring Data Science + Machine Learning Algorithms
 - 🎓 &nbsp; Data Science Analytics Graduate from Atlanta, Georgia, USA
-- 🌱 &nbsp; Current Project: Demystifying Mystery Data 
-- 👀 &nbsp; Open for project collaboration and job opportunities
+- 🌱 &nbsp; Current Project: TBD
+- 👀 &nbsp; Open for project collaboration opportunities
 
 <h3>🛠  Main Tech Stack</h3>
 
